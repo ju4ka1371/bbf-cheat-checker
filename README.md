@@ -2,6 +2,10 @@
 
 Все исходники программы для проверки на читы проекта по CS:GO "BBF SERVERS"
 
+Наш сайт: http://bbf-servers.cshost.su/
+Наш Discord: https://discord.gg/AAP843yF3R
+Наша группа в Steam: https://steamcommunity.com/groups/bbf_servers
+
 Использование:
 
 Запустить утилиту ОТ ИМЕНИ АДМИНИСТРАТОРА
