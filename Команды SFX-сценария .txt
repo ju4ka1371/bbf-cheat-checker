@@ -1,0 +1,9 @@
+Setup=checkcheats\start.bat
+Overwrite=1
+Update=U
+Title=BBF-SERVERS [Cheat-Checker v2.3]
+Text
+{
+Программу необходимо установить в корень любого локального диска.
+ К примеру: D:\
+}
